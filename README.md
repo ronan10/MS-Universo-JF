@@ -3,3 +3,5 @@
 # MANUTENÇÃO DE SOFTWARE
 ## PROF. BRUNO ZONOVELLI
 ### 2019.2 - <<**Ronan**>>
+
+Motivação para seguir como Analísta de Sistema: Ter um futuro garantido
