@@ -2,4 +2,4 @@
 
 # MANUTENÇÃO DE SOFTWARE
 ## PROF. BRUNO ZONOVELLI
-### 2019.2 - <<Ronan Gomes Junior>>
+### 2019.2 - <<**Ronan**>>
